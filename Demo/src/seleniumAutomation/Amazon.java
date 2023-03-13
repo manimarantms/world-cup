@@ -12,9 +12,9 @@ public class Amazon {
    driver.get("https://www.facebook.com/");
    
    WebElement name = driver.findElement(By.id("email"));
-   name.sendKeys("tms.manimaran@gmail.com");
+   name.sendKeys("mhgcvkjgvljv@gmail.com");
    WebElement pass = driver.findElement(By.id("pass"));	
-   pass.sendKeys("manokaran");
+   pass.sendKeys("89klhbjh");
    WebElement button = driver.findElement(By.name("login"));
    button.click();
    
